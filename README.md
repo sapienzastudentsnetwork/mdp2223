@@ -17,7 +17,7 @@ Lo scopo di questo repository GitHub è proporre e discutere insieme possibili s
 | 13/06/2023 | [Discuti](https://github.com/sapienzastudentsnetwork/mdp2223/discussions/7) |
 | 17/05/2023 | [Discuti](https://github.com/sapienzastudentsnetwork/mdp2223/discussions/6) |
 | 16/06/2022 | [Discuti](https://github.com/sapienzastudentsnetwork/mdp2223/discussions/5) |
-| 02/07/2021 | [Discuti](https://github.com/sapienzastudentsnetwork/mdp2223/discussions/4) |
-| 16/09/2021 | [Discuti](https://github.com/sapienzastudentsnetwork/mdp2223/discussions/3) |
+| 16/09/2021 | [Discuti](https://github.com/sapienzastudentsnetwork/mdp2223/discussions/4) |
+| 02/07/2021 | [Discuti](https://github.com/sapienzastudentsnetwork/mdp2223/discussions/3) |
 | 16/06/2021 | [Discuti](https://github.com/sapienzastudentsnetwork/mdp2223/discussions/2) |
 | 19/05/2021 | [Discuti](https://github.com/sapienzastudentsnetwork/mdp2223/discussions/1) |
